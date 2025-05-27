@@ -303,7 +303,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     var barChartData = {
-        labels: ["Category 1", "Category 2", "Category 3"],
+        labels: ["Jan", "Feb", "Mar"],
         datasets: [
             {
                 label: "Sample Bar Chart",
