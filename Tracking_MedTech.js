@@ -319,7 +319,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     var pieChartData = {
-        labels: ["Category A", "Category B", "Category C"],
+        labels: ["Jan", "Feb", "March"],
         datasets: [
             {
                 data: getRandomPieData(3),
